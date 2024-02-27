@@ -13,7 +13,7 @@ This code is a Streamlit application that allows users to upload a PDF file, ext
 ## Instructions
 1. Install the required libraries using `pip`:
     ```
-    pip install streamlit python-dotenv PyPDF2 openai
+    pip install streamlit python-dotenv PyPDF2 openai==0.28
     ```
 2. Obtain an OpenAI API key and store it in a `.env` file in the same directory as the script:
     ```
